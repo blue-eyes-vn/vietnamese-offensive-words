@@ -9,3 +9,5 @@ Please always keep this in mind
 > Bad words are only bad if you truly mean it!
 
 # :bow_and_arrow: How to use
+The <text_file_path> contains a full list of offensive words.
+Please use the file <text_file_other_format> if you need the array format.
