@@ -17,4 +17,4 @@ The list will contains the original offensive word with Vienamese native accent,
 **Example**
 | Original Vietnamese Words  | Other variants |
 | ------------- | ------------- |
-| đủ má  | duma, dm, đm, đmá |
+| đủ má  | du ma, duma, dm, đm, đmá |
