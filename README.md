@@ -12,7 +12,7 @@ Please always keep this in mind
 The <text_file_path> contains a full list of offensive words.  
 Please use the file <text_file_other_format> if you need the array format.
 
-For an offensive word, this list will contains the original offensive word with Vienamese native accent, and its variants: without Vietnamese native accent, written in short form, writen in (teen)code.
+The list will contains the original offensive word with Vienamese native accent, and its variants: without Vietnamese native accent, written in short form, writen in (teen)code.
 
 **Example**
 | Original Vietnamese Words  | Other variants |
