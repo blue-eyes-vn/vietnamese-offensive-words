@@ -1,6 +1,8 @@
 # :cursing_face: Vietnamese Offensive Words List
 A list of popular Vietnamese offensive words that regarded as not suitable for communication.
 
+Bấm vào (đây) để xem phiên bản tiếng Việt
+
 ## :scroll: Disclaimer
 **Bad words are only bad if you truly mean it! The existence of this list is solely for scientific purpose**  
 You may use this offensive words list as a resource for your scientific purpose. We strongly recommend you NOT to use these offensive words for communication in any form (verbal or written), as they are strongly against the communitity standard and tend directly insult other people.
@@ -21,7 +23,6 @@ The list will contains the original offensive word with Vienamese native accent,
 
 # Contributing to the Vietnamese Offensive Words list
 We are welcome every contribution to this Vietnamese Offensive Words list. Please open a Pull Request (insert link here), or submit an issue (insert link here) if you want to contribute a new, smelly offensive word to the list.
-
 ### The following word format are accepted
 - Original Vietnamese word with native accent
 - Word variant written in short form, or teencode
