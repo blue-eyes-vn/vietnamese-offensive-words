@@ -19,3 +19,15 @@ The list will contains the original offensive word with Vienamese native accent,
 | ------------- | ------------- |
 | đủ má  | du ma, duma, dm, đm, đmá |
 
+# Contributing to the Vietnamese Offensive Words list
+We are welcome every contribution to this Vietnamese Offensive Words list. Please open a Pull Request (insert link here), or submit an issue (insert link here) if you want to contribute a new, smelly offensive word to the list.
+
+### The following word format are accepted
+- Original Vietnamese word with native accent
+- Word variant written in short form, or teencode
+### The following word formats might not be accepted
+- For an already listed word, we might not accept word phrase that already contains it.  
+E.g: In listing "đụ má", we might not accept "**đụ má** mày"
+- Single word that is only offensive if used in certain context. E.g: "chó"  
+- Meaningful negative words does not emphasize insulting attitude. E.g: "dốt", "đần"  
+
