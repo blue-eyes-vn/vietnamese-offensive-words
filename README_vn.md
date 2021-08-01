@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/fqd3tXr.jpg" alt="Swearing" width="300">
+
 # :cursing_face: Danh mục từ thô tục của Việt Nam
 Click [here](README.md) for International English version
 
