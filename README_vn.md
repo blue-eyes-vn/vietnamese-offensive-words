@@ -1,5 +1,5 @@
 # :cursing_face: Danh mục từ thô tục của Việt Nam
-Click (here) for International English version
+Click [here](README.md) for International English version
 
 Đây là dự án tổng hợp các từ tiếng Việt thô tục, chửi thề, chửi tục không khuyến khích sử dụng trong giao tiếp.
 
