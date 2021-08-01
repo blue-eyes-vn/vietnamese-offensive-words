@@ -1,5 +1,5 @@
 # :cursing_face: Vietnamese Offensive Words List
-Bấm vào (đây) để xem phiên bản tiếng Việt
+Bấm vào [đây](README_vn.md) để xem phiên bản tiếng Việt
 
 A list of popular Vietnamese offensive words that regarded as not suitable for communication.
 
