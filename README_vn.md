@@ -15,29 +15,24 @@ Xin luôn ghi nhớ rằng
 
 # :bow_and_arrow: Hướng dẫn sử dụng
 Tệp tin <text_file_path> chứa toàn bộ các danh sách từ thô tục trong tiếng Việt.  
-Bạn có thể xem qua tệp <text_file_other_format> nếu cần sử dụng ở định dạng khác.
-
-Danh sách sẽ chứa từ thô tục dưới dạng tiếng Việt nguyên bản có dấu, và các biến thể khác của từ nếu có, bao gồm viết dưới dạng không dấu, viết tắt, viết theo ngôn ngữ mạng, ngôn ngữ tuổi teen.
+Bạn có thể xem qua tệp <text_file_other_format> nếu cần sử dụng ở định dạng khác.  
+Danh sách sẽ chứa từ thô tục dưới dạng tiếng Việt nguyên bản có dấu, và các biến thể khác của từ nếu có, bao gồm viết dưới dạng không dấu, viết tắt, viết theo ngôn ngữ mạng, ngôn ngữ tuổi teen. Các từ được viết ở dạng chữ thường không viết hoa, và được sắp xếp theo thứ tự bảng chữ cái tiêu chuẩn của tiếng Việt.
 
 **Ví dụ**
 | Từ Việt gốc  | Các biến thể khác |
 | ------------- | ------------- |
 | đủ má  | du ma, duma, dm, đm, đmá |
 
-# Contributing to the Vietnamese Offensive Words list
-We are welcome every contribution to this Vietnamese Offensive Words list. Please open a Pull Request (insert link here), or submit an issue (insert link here) if you want to contribute a new, smelly offensive word to the list.
-The new word must be inserted in the list follow Vietnamese Alphabetical order.
+# Đóng góp cho danh sách từ thô tục tiếng Việt
+Chúng tôi hoan nghênh mọi ý kiến đóng góp, xây dựng để bộ danh sách ngày một trở nên hoàn thiện. Xin tạo Pull Request, hoặc tạo một Issue mới nếu bạn muốn đóng góp một từ thô tục mới chưa có trong danh sách.  
+Các từ cần được viết ở dạng chữ thường không viết hoa, và được sắp xếp theo thứ tự bảng chữ cái tiêu chuẩn của tiếng Việt.
 
-### The following word format are accepted
-- Original Vietnamese word with native accent
-- Word variant written in short form, or teencode
-### The following word formats might not be accepted
-- For an already listed word, we might not accept word phrase that already contains it.  
-E.g: Already in listing "đụ má", we might not accept "**đụ má** mày"
-- Regular personal pronoun. E.g: "mày", "tao"
-- Single word that is only offensive if used in certain context. E.g: "chó"  
-- Meaningful negative words does not emphasize insulting attitude. E.g: "dốt", "đần"  
-
-
-
-
+### The following word format are accepted Các định dạng sau đây được chấp thuận
+- Từ tiếng Việt nguyên bản với thanh dấu
+- Các biến thể khác của từ, được viết tắt, hoặc viết theo ngôn ngữ mạng
+### The following word formats might not be accepted  Các định dạng sau có thể không được chấp thuận, cần xem xét
+- Các cụm từ bao gồm từ đã được liệt kê trong danh sách
+Vd: Đã có "đụ má", chúng tôi sẽ không nhận các cụm có chứa từ "đụ má", ví dụ như: "**đụ má** mày"
+- Đại từ nhân xưng phổ thông. Vd: "mày", "tao"
+- Các từ đơn chỉ có nghĩa tục trong bối cảnh nhất định, hoặc trong một câu hoàn chỉnh. Vd: "chó", "vú"
+- Các từ tiêu cực nhưng không mang hàm ý xúc phạm nặng nề. Vd: "dốt", "đần"  
