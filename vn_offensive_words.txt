@@ -1,36 +1,228 @@
+# Buồi, and its variants
+buồi
+buoi
+dau buoi
+daubuoi
+caidaubuoi
+nhucaidaubuoi
+dau boi
+bòi
+dauboi
+caidauboi
+đầu bòy
+dau boy
+dauboy
+caidauboy
+b`
+-------------------------------
+# Cặc, and its variants
+cak
+cặc
+cac
+concak
+nungcak
+bucak
+caiconcac
+caiconcak
+cu
+cặk
+cak
+dái
+giái
+-------------------------------
+# Cứt, and its variants
+cứt
+cuccut
+cutcut
+cứk
+cuk
+cười ỉa
+cười ẻ
+-------------------------------
+# Đéo and its variants
+đéo
+đếch
+đết
+đệt
+đách
+dech
+đ'
+deo
+d'
+đel
+đél
+del
+dell ngửi
+dell ngui
+dell chịu
+dell chiu
+dell hiểu
+dell hieu
+dellhieukieugi
+dell nói
+dell noi
+dellnoinhieu
+dell biết
+dell biet
+dell nghe
+dell ăn
+dell an
+dell được
+dell duoc
+dell làm
+dell lam
+dell đi
+dell di
+dell chạy
+dell chay
+deohieukieugi
+-------------------------------
+
+
+
+
+
+
+-------------------------------
+# Địt, and its variants
 địt
+đm
+dm
+đmm
+dmm
+đmmm
+dmmm
+đcm
+dcm
+đcmm
+dcmm
+đcmmm
+dcmmm
+
+đệch
+dit
+dis
+diz
+đjt
+djt
+
+
 địt mẹ
+địt mịe
 địt má
+địt mía
+địt ba
+địt bà
 địt cha
-địt con mẹ
+địt con
 địt bố
-đụ
-
-đú má
-đú mẹ
-
-đủ má
-đủ mẹ
-đụ má
+địt cụ
 
 dis me
 disme
+dismia
+dis mia
+dis mie
+đis mịa
+đis mịe
+
+ditmemayconcho
+ditmemay
+ditmethangoccho
+ditmeconcho
+dmconcho
 
 
----
-cak
 
+-------------------------------
+# Đù (đủ) má, and its variants
+đụ
+đụ mẹ
+đụ má
+đụ cha
+đụ bà
+
+đú cha
+đú con mẹ
+đú má
+đú mẹ
+
+đù cha
+đù má
+đù mẹ
+
+đủ cha
+đủ má
+đủ mẹ
+đìu
+đờ mờ
+douma
+doma
+duoma
+dou má
+duo má
+dou ma
+đìu má
+á đù
+đậu mẹ
+đậu má
+
+-------------------------------
+# Đĩ, and its variants
+đĩ
+di~
+đuỹ
+điếm
+cđĩ
+cdi~
+đilol
+điloz
+đilon
+diloz
+dilol
+dilon
+condi
+condi~
+dime
 di me
 dimemay
-
-
-
-cặc
-buồi
+condime
+condimay
+condimemay
+con di cho
+con di cho'
+condicho
+bitch
+biz
+bít chi
+con bích
+con bic
+con bíc
+con bít
+phò
+4`
+-------------------------------
+# Lồn, and its variants
 lồn
+l`
 loz
+lìn
+nulo
+ml
+matlon
+cailon
+matlol
+matloz
+thml
+thangmatlon
+thangml
+đỗn lì
+tml
+thml
+hãm
 
-lon
+ăn lol
+mát lol
 cai lol
 lòi lol
 hãm lol
@@ -40,130 +232,126 @@ ngu lol
 tuổi lol
 mõm lol
 mồm lol
-lìn
+như lol
 nung lol
 nứng lol
+nug lol
+nuglol
 rảnh lol
 đách lol
+dach lol
 mu lol
+banh lol
+tét lol
+vạch lol
+cào lol
+tung lol
+mặt lol
 
-(combine with loz)
-(combine with non space)
-
----
-
-nulo
-
-concac
-láo chó
-láo lol
-láo loz
-ml
-
-
-ngu
-
-đủ má
-địt mẹ
-
-chết mẹ
-đĩ
-đuỹ
-
-điếm
-vãi
-vãi
-đéo
-đếch
-đết
-
-cứt
-diz
-điz 
-chịch
-đụ
-cứt
-cứt đái
-
-douma
+cái lờ
 cl
 clgt
-đờ mờ
-
-nứng
-phò
-đút đít
-
-
-cailon
-
-
-cứk
-cu
-cuk
-cặk
-cak
-dái
-
+cờ lờ gờ tờ
+cái lề gì thốn
 đốn cửa lòng
-sảng
-bòi
-chổng mông
-đổ vỏ
-xhct
-con mẹ
-la liếm
 
-đỗn lì
-
-vcl
-vl
-vleu
-
-xoạc
-chich choac
-
-đel
-del
-
-sủa bậy
-sủa tiếp
-đcm
-dcm
-đcmm
-dcmm
 sml
-bitch
-
-mả mẹ
-mả cha
+sapmatlol
+sapmatlon
+sapmatloz
+sấp mặt
+sap mat
 
 vlon
 vailon
 vai lon
 nốn lừng
+vcl
+vl
+vleu
+
+
+(combine with loz, lon)
+(combine with non space)
+-------------------------------
+# Sexual related
+chịch
+chich
+vãi
+v~
+đụ
+nứng
+nug
+đút đít
+chổng mông
+banh háng
+xéo háng
+xhct
+xephinh
+la liếm
+đổ vỏ
+xoạc
+xoac
+chich choac
 húp sò
+fuck
+fck
+đụ
+-------------------------------
+# Various humiliation
+ngu
+óc chó
+occho
+lao cho
+láo chó
+chó má
+cờ hó
+sảng
+thằng chó
+thang cho'
+thang cho
+chó điên
+thằng điên
+thang dien
+đồ điên
+sủa bậy
+sủa tiếp
+sủa đi
+sủa càn
+-------------------------------
+# Mẹ cha, and its variants
+mẹ bà
+mẹ cha mày
+me cha may
+mẹ cha anh
+mẹ cha nhà anh
+mẹ cha nhà mày
+me cha nha may
+mả cha mày
+mả cha nhà mày
+ma cha may
+ma cha nha may
+mả mẹ
+mả cha
+kệ mẹ
+chetme
+chet me
+chết mẹ
+chết mịa
+chết mja
+chết mịe
+chết mie
+thay me
+thấy mẹ
+thấy mịe
+thấy mịa
+tổ cha
+bà cha mày
 cmn
 cmnl
-
-fuck
-fck 
-mẹ cha
-mẹ bà
-buoi
-
-kệ mẹ
-condimay
-condime
-condi
-đ'
-đmm
-chetme
-bòi
-b`
-l`
-đjt
-djt
-cđĩ
-tml
-thml
+-------------------------------
+# Tiên sư, and its variants
+tiên sư nhà mày
+tiên sư bố
+tổ sư
+-------------------------------
