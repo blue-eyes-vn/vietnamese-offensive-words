@@ -32,7 +32,8 @@ The new word must be inserted in the list follow Vietnamese Alphabetical order.
 - Word variant written in short form, or teencode
 ### The following word formats might not be accepted
 - For an already listed word, we might not accept word phrase that already contains it.  
-E.g: In listing "đụ má", we might not accept "**đụ má** mày"
+E.g: Already in listing "đụ má", we might not accept "**đụ má** mày"
+- Regular personal pronoun. E.g: "mày", "tao"
 - Single word that is only offensive if used in certain context. E.g: "chó"  
 - Meaningful negative words does not emphasize insulting attitude. E.g: "dốt", "đần"  
 
