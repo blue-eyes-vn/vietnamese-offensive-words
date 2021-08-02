@@ -16,11 +16,12 @@ Please always keep this in mind
 > Bad words are only bad if you truly mean it!
 
 # :bow_and_arrow: How to use
-The <text_file_path> contains a full list of offensive words.  
+The [vn_offensive_words.txt](vn_offensive_words.txt) contains a full list of offensive words.  
 Please use the file <text_file_other_format> if you need the array format.
 
 The list will contains the original offensive word with Vienamese native accent, and its variants: without Vietnamese native accent, written in short form, writen in (teen)code.
-Word are lowercased, and ordered follow the standard of Vietnamese Alphabet.
+Word are lowercased, and are classified into each associated groups.
+When your implementation loop through the list, **please setup your implementation to ignore the line starts with "#", as they are the comment lines**
 
 **Example**
 | Original Vietnamese Words  | Other variants |
@@ -29,7 +30,7 @@ Word are lowercased, and ordered follow the standard of Vietnamese Alphabet.
 
 # Contributing to the Vietnamese Offensive Words list
 We are welcome every contribution to this Vietnamese Offensive Words list. Please open a Pull Request (insert link here), or submit an issue (insert link here) if you want to contribute a new, smelly offensive word to the list.
-The new word must be inserted in the list follow Vietnamese Alphabetical order.
+The new word must be inserted in its corresponding group (if possible).
 
 ### The following word format are accepted
 - Original Vietnamese word with native accent
