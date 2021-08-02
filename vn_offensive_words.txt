@@ -14,7 +14,7 @@ dau boy
 dauboy
 caidauboy
 b`
--------------------------------
+###############################
 # Cặc, and its variants
 cak
 cặc
@@ -29,7 +29,7 @@ cặk
 cak
 dái
 giái
--------------------------------
+###############################
 # Cứt, and its variants
 cứt
 cuccut
@@ -38,7 +38,7 @@ cứk
 cuk
 cười ỉa
 cười ẻ
--------------------------------
+###############################
 # Đéo and its variants
 đéo
 đếch
@@ -76,14 +76,7 @@ dell di
 dell chạy
 dell chay
 deohieukieugi
--------------------------------
-
-
-
-
-
-
--------------------------------
+###############################
 # Địt, and its variants
 địt
 đm
@@ -98,15 +91,12 @@ dcm
 dcmm
 đcmmm
 dcmmm
-
 đệch
 dit
 dis
 diz
 đjt
 djt
-
-
 địt mẹ
 địt mịe
 địt má
@@ -117,7 +107,6 @@ djt
 địt con
 địt bố
 địt cụ
-
 dis me
 disme
 dismia
@@ -125,32 +114,25 @@ dis mia
 dis mie
 đis mịa
 đis mịe
-
 ditmemayconcho
 ditmemay
 ditmethangoccho
 ditmeconcho
 dmconcho
-
-
-
--------------------------------
+###############################
 # Đù (đủ) má, and its variants
 đụ
 đụ mẹ
 đụ má
 đụ cha
 đụ bà
-
 đú cha
 đú con mẹ
 đú má
 đú mẹ
-
 đù cha
 đù má
 đù mẹ
-
 đủ cha
 đủ má
 đủ mẹ
@@ -166,8 +148,7 @@ dou ma
 á đù
 đậu mẹ
 đậu má
-
--------------------------------
+###############################
 # Đĩ, and its variants
 đĩ
 di~
@@ -201,7 +182,7 @@ con bíc
 con bít
 phò
 4`
--------------------------------
+###############################
 # Lồn, and its variants
 lồn
 l`
@@ -273,7 +254,7 @@ vleu
 
 (combine with loz, lon)
 (combine with non space)
--------------------------------
+###############################
 # Sexual related
 chịch
 chich
@@ -297,7 +278,7 @@ húp sò
 fuck
 fck
 đụ
--------------------------------
+###############################
 # Various humiliation
 ngu
 óc chó
@@ -318,7 +299,7 @@ sủa bậy
 sủa tiếp
 sủa đi
 sủa càn
--------------------------------
+###############################
 # Mẹ cha, and its variants
 mẹ bà
 mẹ cha mày
@@ -349,9 +330,9 @@ tổ cha
 bà cha mày
 cmn
 cmnl
--------------------------------
+###############################
 # Tiên sư, and its variants
 tiên sư nhà mày
 tiên sư bố
 tổ sư
--------------------------------
+###############################
