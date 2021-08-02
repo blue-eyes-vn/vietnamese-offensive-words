@@ -20,7 +20,7 @@ The [vn_offensive_words.txt](vn_offensive_words.txt) contains a full list of off
 Please use the file <text_file_other_format> if you need the array format.
 
 The list will contains the original offensive word with Vienamese native accent, and its variants: without Vietnamese native accent, written in short form, writen in (teen)code.
-Word are lowercased, and are classified into each associated groups.
+Word are lowercased, and are classified into each associated groups.  
 When your implementation loop through the list, **please setup your implementation to ignore the line starts with "#", as they are the comment lines**
 
 **Example**
