@@ -42,6 +42,8 @@ cười ẻ
 # Đéo and its variants
 đéo
 đếch
+đếk
+dek
 đết
 đệt
 đách
@@ -85,13 +87,20 @@ dm
 dmm
 đmmm
 dmmm
+đmmmm
+dmmmm
+đmmmmm
+dmmmmm
 đcm
 dcm
 đcmm
 dcmm
 đcmmm
 dcmmm
+đcmmmm
+dcmmmm
 đệch
+đệt
 dit
 dis
 diz
@@ -109,6 +118,7 @@ djt
 địt cụ
 dis me
 disme
+dismje
 dismia
 dis mia
 dis mie
@@ -119,6 +129,9 @@ ditmemay
 ditmethangoccho
 ditmeconcho
 dmconcho
+dmcs
+ditmecondi
+ditmecondicho
 ###############################
 # Đù (đủ) má, and its variants
 đụ
@@ -200,60 +213,120 @@ thangml
 đỗn lì
 tml
 thml
+diml
+dml
 hãm
-
+xàm lol
+xam lol
+xạo lol
+xao lol
+con lol
 ăn lol
+an lol
 mát lol
+mat lol
+cái lol
 cai lol
 lòi lol
-hãm lol
-xạo lol
+loi lol
+ham lol
 củ lol
+cu lol
 ngu lol
 tuổi lol
+tuoi lol
 mõm lol
 mồm lol
+mom lol
 như lol
-nung lol
+nhu lol
 nứng lol
+nung lol
 nug lol
 nuglol
 rảnh lol
+ranh lol
 đách lol
 dach lol
 mu lol
 banh lol
 tét lol
+tet lol
 vạch lol
+vach lol
 cào lol
+cao lol
 tung lol
 mặt lol
-
+mát lol
+mat lol
+xàm lon
+xam lon
+xạo lon
+xao lon
+con lon
+ăn lon
+an lon
+mát lon
+mat lon
+cái lon
+cai lon
+lòi lon
+loi lon
+ham lon
+củ lon
+cu lon
+ngu lon
+tuổi lon
+tuoi lon
+mõm lon
+mồm lon
+mom lon
+như lon
+nhu lon
+nứng lon
+nung lon
+nug lon
+nuglon
+rảnh lon
+ranh lon
+đách lon
+dach lon
+mu lon
+banh lon
+tét lon
+tet lon
+vạch lon
+vach lon
+cào lon
+cao lon
+tung lon
+mặt lon
+mát lon
+mat lon
 cái lờ
 cl
 clgt
 cờ lờ gờ tờ
 cái lề gì thốn
 đốn cửa lòng
-
 sml
 sapmatlol
 sapmatlon
 sapmatloz
 sấp mặt
 sap mat
-
 vlon
+vloz
+vlol
 vailon
 vai lon
+vai lol
+vailol
 nốn lừng
 vcl
 vl
 vleu
-
-
-(combine with loz, lon)
-(combine with non space)
 ###############################
 # Sexual related
 chịch
@@ -278,6 +351,7 @@ húp sò
 fuck
 fck
 đụ
+bỏ bú
 ###############################
 # Various humiliation
 ngu
@@ -285,6 +359,7 @@ ngu
 occho
 lao cho
 láo chó
+bố láo
 chó má
 cờ hó
 sảng
@@ -315,6 +390,25 @@ ma cha nha may
 mả mẹ
 mả cha
 kệ mẹ
+kệ mịe
+kệ mịa
+kệ mje
+kệ mja
+ke me
+ke mie
+ke mia
+ke mja
+ke mje
+bỏ mẹ
+bỏ mịa
+bỏ mịe
+bỏ mja
+bỏ mje
+bo me
+bo mia
+bo mie
+bo mje
+bo mja
 chetme
 chet me
 chết mẹ
@@ -322,10 +416,16 @@ chết mịa
 chết mja
 chết mịe
 chết mie
-thay me
+chet mia
+chet mie
+chet mja
+chet mje
 thấy mẹ
 thấy mịe
 thấy mịa
+thay me
+thay mie
+thay mia
 tổ cha
 bà cha mày
 cmn
