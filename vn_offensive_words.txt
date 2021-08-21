@@ -10,14 +10,17 @@ bòi
 dauboi
 caidauboi
 đầu bòy
+đầu bùi
 dau boy
 dauboy
 caidauboy
 b`
 ###############################
 # Cặc, and its variants
-cak
 cặc
+cak
+kak
+kac
 cac
 concak
 nungcak
@@ -29,6 +32,8 @@ cặk
 cak
 dái
 giái
+zái
+kiu
 ###############################
 # Cứt, and its variants
 cứt
@@ -136,6 +141,8 @@ ditmecondicho
 # Đù (đủ) má, and its variants
 đụ
 đụ mẹ
+đụ mịa
+đụ mịe
 đụ má
 đụ cha
 đụ bà
@@ -146,19 +153,36 @@ ditmecondicho
 đù cha
 đù má
 đù mẹ
+đù mịe
+đù mịa
 đủ cha
 đủ má
 đủ mẹ
+đủ mé
+đủ mía
+đủ mịa
+đủ mịe
+đủ mie
+đủ mia
 đìu
 đờ mờ
-douma
+đê mờ
+đờ ma ma
+đờ mama
+đê mama
+đề mama
+đê ma ma
+đề ma ma
+dou
 doma
 duoma
 dou má
 duo má
 dou ma
+đou má
 đìu má
 á đù
+á đìu
 đậu mẹ
 đậu má
 ###############################
@@ -352,6 +376,7 @@ fuck
 fck
 đụ
 bỏ bú
+buscu
 ###############################
 # Various humiliation
 ngu
